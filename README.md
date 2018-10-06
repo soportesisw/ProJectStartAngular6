@@ -1,2 +1,0 @@
-# ProJectStartAngular6
-ProJectStartAngular6
